@@ -9,7 +9,7 @@
 
 <h3 align="left">👨‍💻 Talking about Personal stuffs:</h3>
 
-- 🔭 I’m currently working on [the development of an [CRUD Command Line Application](https://github.com/FreddyPinto/crud-cli-app-python-mongodb) with Python and MongoDB Atlas.
+- 🔭 I’m currently working on the development of a [CRUD Command Line Application](https://github.com/FreddyPinto/crud-cli-app-python-mongodb) with Python and MongoDB Atlas.
 - 🌱 I’m currently learning **Node.js, MongoDB Atlas and AWS Lambda**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/FreddyPinto)
