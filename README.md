@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Freddy Pinto</h1>
-<h3 align="center">A Data Scientist and Web Developer Fullstack in training.</h3>
+<h3 align="center">Data Scientist & Full Stack Web Developer</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
