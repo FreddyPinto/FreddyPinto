@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **freddypinto@outlook.com**
 
-- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1S1YMkAoXBr_pm8BUDvMtQslMGe3SIyp4/view?usp=share_link)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1qY00ngGIH76_IcGMyGAZq8Z_2z-yOhBc/view?usp=sharing)
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
