@@ -2,19 +2,19 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Freddy Pinto</h1>
-<h3 align="center">Data Scientist & Full Stack Web Developer</h3>
+<h3 align="center">Data Scientist & Python Developer</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <h3 align="left">👨‍💻 Talking about Personal stuffs:</h3>
 
-- 🔭 I’m currently working on the development of a [CRUD Command Line Application](https://github.com/FreddyPinto/crud-cli-app-python-mongodb) with Python and MongoDB Atlas.
+- 🔭 I’m currently working on the development of a [FARM Full Stack Wep App](https://github.com/FreddyPinto/FARM-full-stack-web-app) with FastAPI, MongoDB and React.
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/FreddyPinto)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://freddypinto.github.io/)
 
-- 💬 Ask me about **Python, scikit-learn and TensorFlow**
+- 💬 Ask me about **Python, GenAI and Machine Learning**
 
 - 📫 How to reach me: **freddypinto@outlook.com**
 
