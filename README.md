@@ -18,8 +18,7 @@
 
 - 📫 How to reach me: **freddypinto@outlook.com**
 
-- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1qY00ngGIH76_IcGMyGAZq8Z_2z-yOhBc/view?usp=sharing)
-
+- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/11esGq5HptS09jN23Q65UEfYO5UBFGYA1/view?usp=drivesdk)
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/freddypinto-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freddypinto-" height="30" width="40" /></a>
