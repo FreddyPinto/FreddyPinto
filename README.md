@@ -9,7 +9,7 @@
 
 <h3 align="left">👨‍💻 Talking about Personal stuffs:</h3>
 
-- 🔭 I’m currently working on the development of a [FARM Full Stack Wep App](https://github.com/FreddyPinto/FARM-full-stack-web-app) with FastAPI, MongoDB and React.
+- 🔭 I’m currently working on the development of a [FARM Full Stack Wep App](https://github.com/FreddyPinto/FARM-full-stack-web-app-beanie-nextjs) with FastAPI, MongoDB and React.
 - 🌱 I'm currently pursuing a [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?msockid=1f5397c4527f6f1f38628269530c6ea4)
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://freddypinto.github.io/)
